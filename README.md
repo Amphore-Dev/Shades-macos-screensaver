@@ -4,6 +4,10 @@
 
 A macOS screensaver that generates animated geometric compositions with shifting shades of color. Ported from the [Shades web project](https://github.com/Amphore-Dev/Shades) (TypeScript/Canvas) to native Swift.
 
+## ⚠️ Epilepsy Warning
+
+The shades can produce rapidly flashing and shifting patterns that may trigger seizures in photosensitive individuals. Viewer discretion is advised.
+
 ## Shapes
 
 The screensaver randomly cycles through five shape types:
